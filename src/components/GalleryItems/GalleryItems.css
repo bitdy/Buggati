@@ -1,0 +1,39 @@
+.GalleryItems {
+    position: relative;
+}
+.GalleryItems_Img{
+    height: 100%;
+    width: 100%;
+    object-fit: scale-down;
+}
+
+.GalleryItems_text {
+    align-items: center;
+    background: rgba(0,0,0,.5);
+    bottom: 1px;
+    color: #fff;
+    display: flex;
+    font-family: ff-zwo-web;
+    font-size: 14px;
+    font-weight: 300;
+    justify-items: center;
+    line-height: 1;
+    padding: 10px;
+    position: absolute;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+.GalleryItems_text a {
+    color: #fff;
+    margin-left: 15px;
+}
+
+.GalleryItems_text svg  {
+    position: absolute;
+    right: 10px;
+}
+
+.GalleryItems_text svg path {
+    stroke: #fff;
+}

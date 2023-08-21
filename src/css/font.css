@@ -1,0 +1,22 @@
+@font-face {
+  font-family: ff-zwo-web;
+  src: url("../fonts/ff-zwo-web.woff2") format("woff2"),
+    url("/typo3conf/ext/bugatti_sitepackage/Resources/Public/Fonts/5559979/5a89c1c7-4de3-42bf-8a5b-4ddd4625edcf.woff")
+      format("woff"),
+    url("/typo3conf/ext/bugatti_sitepackage/Resources/Public/Fonts/5559979/5b0da818-ef2a-49e7-b15d-e13dd3b7a0fe.ttf")
+      format("truetype");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: ff-zwo-web-bold;
+  src: url("../fonts/ff-zwo-web-bold.woff2")
+      format("woff2"),
+    url("/typo3conf/ext/bugatti_sitepackage/Resources/Public/Fonts/5561696/76c6cee4-5328-413f-ae9c-68fbab3129de.woff")
+      format("woff"),
+    url("/typo3conf/ext/bugatti_sitepackage/Resources/Public/Fonts/5561696/bc2689e4-6e1c-457c-bc05-348a5279b746.ttf")
+      format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}

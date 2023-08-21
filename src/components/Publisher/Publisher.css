@@ -1,0 +1,16 @@
+.publider_img img{
+    height: 267px;
+    width: 100%;
+    object-fit: scale-down;
+}
+
+.viewAll_NewsTeaser {
+    margin: 50px 0 30px;
+    display: inline-flex;
+    justify-content: center;
+    padding: 10px 0 0;
+    display: flex;
+    border-top: #707070 1px solid;
+    margin: 50px auto 30px auto;
+    max-width: 284px;
+}
